@@ -1,5 +1,5 @@
 # vinay-repo
-Login page
+Just pratices.
 #my first repo in github
 <!DOCTYPE html>
 <html lang="en">
